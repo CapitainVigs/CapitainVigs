@@ -1,16 +1,52 @@
-## Hi there 👋
+### 👋 Hey there, I'm **CapitainVigs**
 
-<!--
-**CapitainVigs/CapitainVigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *AI Enthusiast | Blockchain Engineer | 3D Artist*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Welcome banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Crafting+Futures+with+Code+%F0%9F%94%A5;Blockchain+Builder+%E2%9C%A8+AI+Dreamer+%E2%9C%8C%EF%B8%8F;3D+Designer+in+Blender+%F0%9F%96%A8%EF%B8%8F%F0%9F%92%A8)
+
+---
+
+#### 🧠 Technologies I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,solidity,blender" />
+</p>
+
+---
+
+#### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CapitainVigs&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CapitainVigs&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitainVigs&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+#### 💬 A Fun Touch
+
+> “Code like an artist. Dream like a futurist. Build like a pirate 🏴‍☠️.”  
+> *– CapitainVigs*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
+
+---
+
+#### 🌐 Let's Connect
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+
+---
+
+✨ _Thanks for visiting! Let's create something incredible together._
