@@ -32,7 +32,7 @@
 
 ---
 
-#### 💬 A Fun Touch
+#### 💬 My fuel
 
 > “Code like an artist. Dream like a futurist. Build like a pirate 🏴‍☠️.”  
 > *– CapitainVigs*
