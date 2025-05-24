@@ -11,7 +11,7 @@
 #### 🧠 Technologies I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,blender,docker,c,cpp,javascript,php,laravel,html5,linux,macos,server,aws,electronics,drone" />
+  <img src="https://skillicons.dev/icons?i=python,react,blender,docker,c,cpp,javascript,php,laravel,html,css,bootstrap,linux,ios,aws,raspberrypi" />
 </p>
 
 ---
